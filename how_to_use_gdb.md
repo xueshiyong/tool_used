@@ -78,3 +78,9 @@ vscode debug 示意图
 一个简单的makefile编写
 
 <image src="image/makefile_exp.png">
+
+
+update
+
+<image src="image/makefile_exp_2.png">
+
